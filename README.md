@@ -1,4 +1,5 @@
 Simple JavaScript Chess Game
+
 Play chess right in your browser with this minimalist JavaScript chess game.
 
 Chess Board
